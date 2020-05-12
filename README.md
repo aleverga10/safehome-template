@@ -1,5 +1,5 @@
 # safehome
-A Java simulation of the well-known case study of "SafeHome", invented by Dr. Roger Pressman in his book "Software Engineering: a Practitioner's Approach". 
+A Java simulation of the well-known case study "SafeHome", invented by Dr. Roger Pressman in his book "Software Engineering: a Practitioner's Approach". 
 
 This project composes of two applications: Sensors and Environment, the first of which is used to model (in a non-physical way) the inner workings of devices, in order to acknowledge the presence of undesired situations stated in the case study; the latter app is used to simulate a smart home and its rooms. 
 
